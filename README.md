@@ -1,4 +1,4 @@
-### Olá, sou o Gustavo ou Coartem no campo da internet, seja bem vindo.
+### Olá, sou o Gustavo, seja bem vindo.
 - 🌱 Estudando: React e Back-end
 
 <div style="display: inline_block"><br>
