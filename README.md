@@ -1,5 +1,5 @@
 ### Olá, sou o Gustavo, seja bem vindo.
-- 🌱 Estudando: React e Back-end
+- 🌱 Estudando: Vuejs, React e BackEnd
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
