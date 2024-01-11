@@ -1,6 +1,6 @@
 ### Olá, sou o Gustavo, seja bem vindo.
 - 🌱 Estudando: Vuejs, React e BackEnd
-- Caso queira ver meu <a href="https://gustavowillian.netlify.app/" target="_blank">portfolio</a>
+- Caso queira ver meu <a href="https://gustavowillian.netlify.app/">portfolio</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
