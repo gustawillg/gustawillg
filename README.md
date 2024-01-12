@@ -1,7 +1,7 @@
 ### Olá, sou o Gustavo, seja bem vindo.
 - 🌱 Estudando: Vuejs, React e BackEnd
 - 💯 Caso queira ver meu <a href="https://gustavowillian.netlify.app/">portfolio</a>
-- ⚠️ Boa parte dos projetos publicos arquivados foram estudos do passado ou apenas testes. Gosto de deixar tudo publico em meu github ⚠️ 
+- ⚠️ Boa parte dos projetos publicos arquivados foram estudos do passado ou apenas testes. Gosto de deixar tudo publico em meu github
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
