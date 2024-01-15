@@ -1,6 +1,6 @@
 ## 👋 Olá 
 - 💯 Caso queira ver meu <a href="https://gustavowillian.netlify.app/">portfolio</a>
-- ⚠️ Boa parte dos projetos publicos arquivados foram estudos do passado ou apenas testes. Gosto de deixar tudo publico em meu github
+- ⚠️ Boa parte dos projetos publicos arquivados foi/são estudos ou apenas testes. Gosto de deixar tudo publico em meu github
 
 ## Tech Stack
 
