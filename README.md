@@ -18,7 +18,7 @@
   <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
-<img align="center" alt="Sass" height="30" width="40" src="https://devicons.dev.br/icons?icon=JavaScript,VueJS&size=30&theme=dark&perline=30" />
+<img align="center" alt="Sass"  src="https://devicons.dev.br/icons?icon=JavaScript,VueJS&size=30&theme=dark&perline=30" />
 </div>
 
  ##
