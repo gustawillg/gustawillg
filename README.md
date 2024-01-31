@@ -27,7 +27,7 @@
 </div>
 
 
-<a href="https://wakatime.com/@Sefinek" target="_blank">
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sefinek&border_radius=13px&theme=dark&border_color=151515&range=all_time&custom_title=📊+〢+Sefinek%27s+Wakatime+stats" alt="Wakatime stats">
+<a href="https://wakatime.com/@gustawill" target="_blank">
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=gustavowill&border_radius=13px&theme=dark&border_color=151515&range=all_time&custom_title=📊+〢+Sefinek%27s+Wakatime+stats" alt="Wakatime stats">
 </a>
 
