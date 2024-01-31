@@ -3,7 +3,7 @@
 - ⚠️ Boa parte dos projetos publicos arquivados foi/são estudos ou apenas testes. Gosto de deixar tudo publico em meu github
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,docker,postgres,bootstrap,tailwind,sass,mongodb,nodejs,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,jest,vue,react,docker,mongodb,postgres,bootstrap,tailwind,sass,,html,css&theme=dark)](https://skillicons.dev)
 
 ##
  
