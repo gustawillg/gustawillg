@@ -27,11 +27,5 @@
 </div>
 
 
-## 🌌 〢 Discord
-<a href="https://sefinek.net" target="_blank">
-    <div align="center"><img src="https://lanyard.cnrad.dev/api/561621386569973783?bg=151515&borderRadius=13px" width="47%" alt="Discord Status"></div>
-</a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/206758493787521025)](https://discord.com/users/206758493787521025)
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/sefinek24/sefinek24/snake/github-snake-dark.svg" alt="Snake"><br><br>
-</div>
