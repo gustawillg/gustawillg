@@ -25,3 +25,5 @@
 <div> 
   <a href="https://www.linkedin.com/in/gustavo-willian-1595072a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Henrique-CSharp&theme=react&hide_border=false)
