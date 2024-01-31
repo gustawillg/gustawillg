@@ -26,4 +26,12 @@
   <a href="https://www.linkedin.com/in/gustavo-willian-1595072a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=gustawillg&theme=react&hide_border=false)
+
+## 🌌 〢 Discord
+<a href="https://sefinek.net" target="_blank">
+    <div align="center"><img src="https://lanyard.cnrad.dev/api/561621386569973783?bg=151515&borderRadius=13px" width="47%" alt="Discord Status"></div>
+</a>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/sefinek24/sefinek24/snake/github-snake-dark.svg" alt="Snake"><br><br>
+</div>
