@@ -26,8 +26,3 @@
   <a href="https://www.linkedin.com/in/gustavo-willian-1595072a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
-<a href="https://wakatime.com/@gustawill" target="_blank">
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=gustavowill&border_radius=13px&theme=dark&border_color=151515&range=all_time&custom_title=📊+〢+Sefinek%27s+Wakatime+stats" alt="Wakatime stats">
-</a>
-
